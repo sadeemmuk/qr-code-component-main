@@ -27,7 +27,7 @@ body .container {
     margin: 10% auto;
     align-items: center;
     background-color: var(--white);
-    padding: 20px 20px 40px 20px;
+    padding: 25px 20px 40px 20px;
     border-radius: 20px;
     text-align: center;
     box-shadow: 0px 8px 20px 0px #0000003d;
@@ -35,7 +35,7 @@ body .container {
 
 body .container img {
     width: 310px;
-    margin-top: -10px;
+    margin-top: -5px;
     border-radius: 10px;
     margin-bottom: 15px;
 
